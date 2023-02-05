@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ComponentsOfAndroid</string>
+    <string name="activity">Activity</string>
+    <string name="broadcast_receiver">broadcast receiver</string>
+    <string name="service">Service</string>
+    <string name="please_select_your_category">Please Select Your Category</string>
+    <string name="content_provider">Content Provider</string>
+    <string name="components_of_android">Components of Android</string>
 </resources>
