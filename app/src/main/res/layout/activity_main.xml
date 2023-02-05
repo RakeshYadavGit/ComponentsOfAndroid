@@ -68,7 +68,8 @@
                 android:layout_row="0"
                 android:layout_column="0"
                 android:background="@drawable/button_round_bg"
-                android:text="@string/activity"/>
+                android:text="@string/activity"
+                android:onClick="goToActivity"/>
 
             <Button
                 android:id="@+id/serviceButton"
@@ -78,7 +79,8 @@
                 android:layout_column="1"
                 android:translationX="10dp"
                 android:background="@drawable/button_round_bg"
-                android:text="@string/service"/>
+                android:text="@string/service"
+                android:onClick="goToService"/>
             <Button
                 android:id="@+id/broadcastButton"
                 android:layout_width="150dp"
@@ -87,7 +89,8 @@
                 android:layout_column="0"
                 android:translationY="10dp"
                 android:background="@drawable/button_round_bg"
-                android:text="@string/broadcast_receiver"/>
+                android:text="@string/broadcast_receiver"
+                android:onClick="goToBroadcastReceiver"/>
 
             <Button
                 android:layout_width="150dp"
@@ -97,7 +100,8 @@
                 android:translationX="10dp"
                 android:translationY="10dp"
                 android:background="@drawable/button_round_bg"
-                android:text="@string/content_provider"/>
+                android:text="@string/content_provider"
+                android:onClick="goToContentProvider"/>
 
 
 

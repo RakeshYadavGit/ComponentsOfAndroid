@@ -12,6 +12,18 @@
         android:theme="@style/Theme.ComponentsOfAndroid"
         tools:targetApi="31">
         <activity
+            android:name=".ContentProviderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BroadcastReceiverActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ServiceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityLifeCycle"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
