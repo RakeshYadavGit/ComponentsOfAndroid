@@ -2,4 +2,5 @@
 <resources>
     <string name="broadcast_receiver">broadcast receiver</string>
     <string name="components_of_android">Components of Android</string>
+    <string name="activity_life_cycle">Activity Life Cycle</string>
 </resources>
