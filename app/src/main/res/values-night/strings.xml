@@ -4,4 +4,7 @@
     <string name="components_of_android">Components of Android</string>
     <string name="activity_life_cycle">Activity Life Cycle</string>
     <string name="go_to_first_activity">Go To First Activity</string>
+    <string name="android_service_example">Android Service Example</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
 </resources>
