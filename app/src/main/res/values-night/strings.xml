@@ -7,4 +7,9 @@
     <string name="android_service_example">Android Service Example</string>
     <string name="start_service">Start Service</string>
     <string name="stop_service">Stop Service</string>
+    <string name="broadcast_receiver_example">Broadcast Receiver Example</string>
+    <string name="click_here">Click Here</string>
+    <string name="insert_data">Insert Data</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="click_on_airplane_mode">Click on Airplane Mode</string>
 </resources>
