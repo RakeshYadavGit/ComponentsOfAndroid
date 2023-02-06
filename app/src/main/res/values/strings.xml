@@ -8,4 +8,5 @@
     <string name="components_of_android">Components of Android</string>
     <string name="activity_life_cycle">Activity Life Cycle</string>
     <string name="go_to_second_activity">Go To Second Activity</string>
+    <string name="go_to_first_activity">Go To First Activity</string>
 </resources>

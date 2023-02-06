@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ActivityLifeCycle">
+    tools:context=".SecondActivity">
     <View
         android:id="@+id/topView"
         android:layout_width="0dp"
@@ -42,8 +42,8 @@
         android:id="@+id/button"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:text="@string/go_to_second_activity"
-        android:onClick="goToSecondActivity"
+        android:text="@string/go_to_first_activity"
+        android:onClick="goToFirstActivity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
